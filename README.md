@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/dd3c48dd-022c-49ba-9c2e-49422f039401)
+
 # Tiny Ping 🟢
 
 TinyPing is a lightweight status checking service that provides simple and efficient monitoring of various service endpoints.
