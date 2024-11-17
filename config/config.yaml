@@ -1,0 +1,35 @@
+- name: GitHub
+  description: The world's leading software development and version control platform.
+  api:
+    method: GET
+    url: https://github.com/status
+
+- name: Discord
+  description: Voice, video, and text communication platform for communities.
+  api:
+    method: GET
+    url: https://discordstatus.com/api/v2/status.json
+
+- name: Cloudflare
+  description: Global cloud network and security services provider.
+  api:
+    method: GET
+    url: https://www.cloudflarestatus.com/api/v2/status.json
+
+- name: MongoDB Atlas
+  description: Fully managed cloud database service for modern applications.
+  api:
+    method: GET
+    url: https://status.mongodb.com/api/v2/status.json
+
+- name: OpenAI
+  description: Advanced AI models and APIs for developers and businesses.
+  api:
+    method: GET
+    url: https://status.openai.com/api/v2/status.json
+
+- name: Stripe
+  description: Online payment processing platform for internet businesses.
+  api:
+    method: GET
+    url: https://status.stripe.com/api/v2/summary.json
