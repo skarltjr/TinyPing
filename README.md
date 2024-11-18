@@ -19,7 +19,7 @@ TinyPing is a lightweight status checking service that provides simple and effic
 ## Environment Variables
 Required environment variables:
 
-```env
+```env(example)
 AWS_REGION=ap-northeast-2
 DYNAMODB_TABLE_NAME=tinyping-test
 ```
