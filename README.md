@@ -13,6 +13,8 @@ TinyPing is a lightweight status checking service that provides simple and effic
 ## Prerequisites
 - Go 1.23 or higher
 - AWS DynamoDB
+  - partition key : service(s)
+  - sort key : timestamp(s)
 
 ## Environment Variables
 Required environment variables:
